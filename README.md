@@ -1,3 +1,7 @@
+##NAME: Venkata Revanth B
+
+##REGISTER NUMBER: 24001476
+
 # Monitoring-Light-intensity-value-in-Thing-speak-cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
@@ -95,14 +99,14 @@ Prototype and build IoT systems without setting up servers or developing web sof
 #include "ThingSpeak.h"
 #define ldr_pin 34
 
-char ssid[] = "Akshay"; 
-char pass[] = "Loid D Ackerman :)";
+char ssid[] = "iPhone"; 
+char pass[] = "1234567890";
 int keyIndex = 0;
 WiFiClient  client;
 
-unsigned long myChannelNumber =  2788340;
+unsigned long myChannelNumber =  2785422;
 const int ChannelField = 1;
-const char * myWriteAPIKey = "Y2YROF4BS19UCV3I";
+const char * myWriteAPIKey = "6LF1FAPNWG4EJNUS";
 
 int ldrValue = 0;
 int lightPercentage = 0;
