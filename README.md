@@ -2,7 +2,7 @@
 
 ##REGISTER NUMBER: 24001476
 
-# Monitoring-Light-intensity-value-in-Thing-speak-cloud
+# Experiment 4 - Monitoring Light intensity value in Thing speak cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
