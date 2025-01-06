@@ -155,10 +155,8 @@ void loop()
 <img src="https://github.com/user-attachments/assets/1b47c13f-6ee4-4f51-95cb-770f78b21104" width="600">
 
 # OUTPUT:
+![4](https://github.com/user-attachments/assets/be092815-8038-4d48-a946-287909d20ae8)
 
-<img src="https://github.com/user-attachments/assets/57961e34-637e-40ab-af76-4d01f391893a" width="800">
-
-<img src="https://github.com/user-attachments/assets/986e2a53-cb09-435f-bd49-965668560500" width="600">
 
 # RESULT:
 
